@@ -10,7 +10,18 @@ html {
 
 body {
   font-family: Helvetica, sans-serif;
-  font-size: 1.6rem;
-  color: #222;
-  background: #efefef;
+  font-size: 1em;
+  color: #ddd;
+  background: #333;
+}
+
+h1 {
+  font-size: 2em;
+  color: #9FC031;
+  font-weight: 700;
+}
+
+p {
+  font-size: 1.25em;
+  color:#9FC031;
 }
